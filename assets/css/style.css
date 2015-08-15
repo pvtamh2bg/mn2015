@@ -1,0 +1,13 @@
+section{ -webkit-box-sizing: border-box; -moz-box-sizing: border-box;  box-sizing: border-box; }
+a:hover { text-decoration: none; }
+#main-wraper{ min-height: 500px; font-size: 14px; }
+#sidebar{ padding: 0px;  }
+#sidebar ul{ margin: 0px; padding: 0px; }
+#sidebar ul li.main{ margin: 0px 0px 1px 0px; }
+#sidebar ul li.main a.main{ display: block; width: 100%; padding: 5px 0px 5px 25px; background: #222; text-transform: capitalize; }
+#sidebar ul li.sub a.sub{ display: block; width: 100%; padding: 5px 0px 5px 45px; background: url('../images/star.png') no-repeat  30px 9px ;  }
+#sidebar ul.submenu{ display: none; }
+#sidebar ul li.selected ul.submenu{ display: block; }
+span.required, .section-errors{ color: red;  }
+.memberfinalicon{ color: green;}
+.listmemberlastest { color: #0071C0; }

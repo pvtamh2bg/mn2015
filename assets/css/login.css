@@ -1,0 +1,12 @@
+header{ height: 80px; background: #0071C0;}
+header h1{ margin: 0; padding: 0; }
+header h2.caption{ color: #ffffff; text-transform: uppercase; font: bold 24px arial, tahoma, sans-serif; line-height: 40px;}
+header h1 a{ display: block; width: 113px; height: 65px; background: #0071C0 url('../images/logo.png') no-repeat; }
+header div.info-acount{ color: #ffffff; line-height: 68px; }
+header span{ margin-right: 10px; }
+header .info-acount .acount{ font-weight: bold; text-transform: capitalize; }
+section.login-content{ height: 325px; background: url("../images/wave.png") no-repeat center ; margin: 10px 0px; }
+section #loginform { border: 1px solid #ccc; margin-top: 65px; padding: 10px;  }
+#loginform h3{ color: #ffffff; font: normal 27px arial, sans-serif; text-transform: uppercase; }
+.items{ margin-bottom: 5px;}
+footer{ text-align: center; background: #333; padding: 20px 0px;  color: #ffffff; }
